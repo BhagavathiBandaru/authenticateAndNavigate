@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+
+.not-found-heading {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.not-found-container {
+  display: flex;
+  justify-content: center;
+}

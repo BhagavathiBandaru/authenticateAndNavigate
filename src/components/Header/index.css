@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+
+.header-container {
+  font-family: 'Roboto';
+}
+
+.menu-bar {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+
+.menu-item {
+  margin-right: 10px;
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: rgba(128, 0, 128, 0.452);
+  text-decoration: underline;
+  margin-right: 12px;
+  justify-content: center;
+}
